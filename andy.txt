@@ -1,1 +1,5 @@
 andy worked here!
+
+andy done something wrong, and did NOT committed, then to undo, click the discard change
+	it will be back to the previous version
+	

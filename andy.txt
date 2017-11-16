@@ -1,4 +1,1 @@
 andy worked here!
-
-andy done something wrong, and did committed, then to undo, click the Revert 
-	it will add  a new commit with the previous version

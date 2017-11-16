@@ -6,3 +6,6 @@ andy done something wrong, and did NOT committed, then to undo, click the discar
 andy job is done! 
 publish git to server then 
 merge andy's branch with master
+
+time to merge to the master branch
+   use "Pull Request" button
